@@ -6,6 +6,7 @@ import FetchedPosts from './components/FetchedPost';
 function App() {
     return (
         <div className="container pt-3">
+            <h1>Работа с Redux и Saga</h1>
             <div className="row">
                 <div className="col">
                     <PostForm />
